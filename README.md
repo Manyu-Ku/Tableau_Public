@@ -1,5 +1,4 @@
 # Tableau_Public
-Dashboards and infographics created by using Tableau
 
 [My Tableau Public Website](https://public.tableau.com/app/profile/man.yu.ku)
 
